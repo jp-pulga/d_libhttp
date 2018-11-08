@@ -9,5 +9,6 @@
 	"copyright": "Copyright © 2018, João Paulo",
 	"license": "public domain",
 	"name": "d_libhttp", 
-	"targetPath": "bin"
+	"targetPath": "bin",
+	"dflags-ldc": ["-O4"]
 }
