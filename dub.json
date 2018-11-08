@@ -1,0 +1,13 @@
+{
+	"description": "Application for test the lighttp",
+	"dependencies": {
+		"lighttp": "~>0.3.0"
+	},
+	"authors": [
+		"João Paulo"
+	],
+	"copyright": "Copyright © 2018, João Paulo",
+	"license": "public domain",
+	"name": "d_libhttp", 
+	"targetPath": "bin"
+}

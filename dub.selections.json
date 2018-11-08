@@ -1,0 +1,8 @@
+{
+	"fileVersion": 1,
+	"versions": {
+		"kiss": "0.4.9",
+		"lighttp": "0.3.0",
+		"xbuffer": "1.0.0"
+	}
+}
